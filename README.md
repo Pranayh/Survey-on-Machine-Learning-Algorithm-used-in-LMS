@@ -1,0 +1,2 @@
+# Survey-on-Machine-Learning-Algorithm-used-in-LMS
+we have included study of Machine learning algorithms which are used in Learning management systems(LMS) like Moodle, which plays a major role in it. To understand learners and analyse an online learner’s past performance and combine it with new information to predict the outcome. As such, you’re able to set online learners on the right path based on skill, performance, or knowledge gaps.
